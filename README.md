@@ -1,9 +1,10 @@
 ## hearing_health_gaps
-multilevel regression and post-stratification analysis to document the gaps in the primary, secondary, and tertiary public health prevention of hearing loss in the US
+Multilevel regression and post-stratification analysis to document the gaps in the primary, secondary, and tertiary public health prevention of hearing loss in the US
 
 --------------------------------------------------------------------------------
 
 *Code for*
+
 **Shkembi A**, Smith LM, Zhang X, DePalma G, Green G, **Neitzel RL**. The Unmet Needs of Hearing Health across America: small area estimation modelling of noise pollution, hearing screening, and hearing aid use from the Apple Hearing Study, 2019-2022.
 
 I (Abas Shkembi) conducted the analysis. For questions about this analysis, you can reach me at ashkembi@umich.edu. Richard Neitzel is the PI of the Apple Hearing Study. For questions about the Apple Hearing Study as a whole, you can reach him at rneitzel@umich.edu.
